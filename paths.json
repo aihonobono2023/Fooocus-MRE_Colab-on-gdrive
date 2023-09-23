@@ -1,14 +1,14 @@
 {
-    "path_checkpoints": "../models/checkpoints/",
-    "path_loras": "../models/loras/",
-    "path_embeddings": "../models/embeddings/",
-    "path_clip_vision": "../models/clip_vision/",
-    "path_controlnet": "../models/controlnet/",
-    "path_vae_approx": "../models/vae_approx/",
-    "path_fooocus_expansion": "../models/prompt_expansion/fooocus_expansion/",
-    "path_upscale_models": "../models/upscale_models/",
-    "path_inpaint_models": "../models/inpaint/",
-    "path_styles": "../sdxl_styles/",
-    "path_wildcards": "../wildcards/",
-    "path_outputs": "../outputs/"
+    "path_checkpoints": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/models/checkpoints/",
+    "path_loras": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/models/loras/",
+    "path_embeddings": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/models/embeddings/",
+    "path_clip_vision": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/models/clip_vision/",
+    "path_controlnet": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/models/controlnet/",
+    "path_vae_approx": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/models/vae_approx/",
+    "path_fooocus_expansion": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/models/prompt_expansion/fooocus_expansion/",
+    "path_upscale_models": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/models/upscale_models/",
+    "path_inpaint_models": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/models/inpaint/",
+    "path_styles": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/sdxl_styles/",
+    "path_wildcards": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/wildcards/",
+    "path_outputs": "/content/gdrive/MyDrive/Fooocus-MRE_Colab-on-gdrive/outputs/"
 }
